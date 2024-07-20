@@ -10,4 +10,5 @@ def dollars_to_float(d):
 def percent_to_float(p):
     return float(p.rstrip('%')) / 100  #使用 rstrip 删除右侧的%
 
-main()
+if __name__ == "__main__":
+    main()

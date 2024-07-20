@@ -7,4 +7,5 @@ def convert(text):
 def main():
     print(convert(input()))
 
-main()
+if __name__ == "__main__":
+    main()

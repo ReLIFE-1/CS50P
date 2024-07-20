@@ -1,2 +1,2 @@
-x = input("输入字符串")
+x = input()
 print(x.lower())
